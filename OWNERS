@@ -1,0 +1,15 @@
+reviewers:
+  - abhat
+  - danwinship
+  - JacobTanenbaum
+  - trozet
+  - tssurya
+approvers:
+  - abhat
+  - danwinship
+  - knobunc
+  - trozet
+
+# Bugzilla info
+component: Networking
+subcomponent: cluster-network-operator
